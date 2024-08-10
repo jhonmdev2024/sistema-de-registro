@@ -9,5 +9,7 @@ console.log("Fin del paso 2");
 console.log("Inicio del paso 3");
 console.log("Fin del paso 3");
 
+console.log("Inicio del paso 4");
+console.log("Fin del paso 4");
 
 console.log("Fin del programa");
