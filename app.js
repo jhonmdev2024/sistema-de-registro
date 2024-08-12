@@ -12,4 +12,7 @@ console.log("Fin del paso 3");
 console.log("Inicio del paso 4");
 console.log("Fin del paso 4");
 
+console.log("Inicio del paso 5");
+console.log("Fin del paso 5");
+
 console.log("Fin del programa");
